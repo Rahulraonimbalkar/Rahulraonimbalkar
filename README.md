@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Rahul Nimbalkar</h1>
 <h3 align="center">Software Engineer: React |App developer | Blockchain | AI & ML | Data analysis</h3>
 
-- 🔭 I’m currently working on **AIMEE android App**
+-  I’m currently working on **AIMEE android App**
 
-- 🌱 I’m currently learning **React Native, Kubernetes**
+-  I’m currently learning **React Native, Kubernetes**
 
-- 👯 I’m looking to collaborate on **Full stack development and app developing**
+-  I’m looking to collaborate on **Full stack development and app developing**
 
-- 👨‍💻 All of my projects are available at [rahulraonimbalkar.github.io/My-portfolio/](rahulraonimbalkar.github.io/My-portfolio/)
+-  All of my projects are available at [rahulraonimbalkar.github.io/My-portfolio/](rahulraonimbalkar.github.io/My-portfolio/)
 
-- 📫 How to reach me **rahulnimbalkar639@gmail.com**
+-  How to reach me **rahulnimbalkar639@gmail.com**
 
-- ⚡ Fun fact **Curious about Money**
+-  Fun fact **Curious about Money**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
