@@ -7,7 +7,7 @@
 
 -  I’m looking to collaborate on **Full stack development and app developing**
 
--  All of my projects are available at [rahulraonimbalkar.github.io/My-portfolio/](rahulraonimbalkar.github.io/My-portfolio/)
+-  All of my projects are available at [(https://eclectic-crepe-632542.netlify.app/)
 
 -  How to reach me **rahulnimbalkar639@gmail.com**
 
