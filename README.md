@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahul Nimbalkar</h1>
-<h3 align="center">Software Engineer: React |App developer | Blockchain | AI & ML | Data analysis</h3>
+<h3 align="center">AI Software Developer:AI & ML | React | App developer | Blockchain | Data analysis</h3>
 
 -  I’m currently working on **Agentic AI**
 
