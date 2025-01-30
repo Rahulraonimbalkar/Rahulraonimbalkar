@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rahul Nimbalkar</h1>
 <h3 align="center">Software Engineer: React |App developer | Blockchain | AI & ML | Data analysis</h3>
 
--  I’m currently working on **AIMEE android App**
+-  I’m currently working on **Agentic AI**
 
--  I’m currently learning **React Native, Kubernetes**
+-  I’m currently learning **LLMs, Agents, Kubernetes**
 
--  I’m looking to collaborate on **Full stack development and app developing**
+-  I’m looking to collaborate on **Full stack development and ML models development**
 
 -  All of my projects are available at [(https://eclectic-crepe-632542.netlify.app/)
 
